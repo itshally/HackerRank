@@ -27,3 +27,8 @@ Day 4: Create a Rectangle Object | [View Solution](https://github.com/itshally/H
 Day 5: Inheritance | [View Solution](https://github.com/itshally/HackerRank/blob/master/10%20Days%20Of%20JavaScript/Day%205/Day_5_Inheritance_Solution.js)
 Day 5: Template Literals | [View Solution](https://github.com/itshally/HackerRank/blob/master/10%20Days%20Of%20JavaScript/Day%205/Day_5_Template_Literals_Solution.js)
 Day 5: Arrow Functions | [View Solution](https://github.com/itshally/HackerRank/blob/master/10%20Days%20Of%20JavaScript/Day%205/Day_5_Arrow_Functions_Solution.js)
+Day 6: Bitwise Operators | [View Solution](https://github.com/itshally/HackerRank/blob/master/10%20Days%20Of%20JavaScript/Day%206/Day_6_Bitwise_Operators_Solution.js)
+Day 6: JavaScript Dates | [View Solution](https://github.com/itshally/HackerRank/blob/master/10%20Days%20Of%20JavaScript/Day%206/Day_6_JavaScript_Dates_Solution.js)
+Day 7: Regular Expressions I | [View Solution](https://github.com/itshally/HackerRank/blob/master/10%20Days%20Of%20JavaScript/Day%207/Day_7_Regular_Expressions_1_Solution.js)
+Day 7: Regular Expressions II | [View Solution](https://github.com/itshally/HackerRank/blob/master/10%20Days%20Of%20JavaScript/Day%207/Day_7_Regular_Expressions_2_Solution.js)
+Day 7: Regular Expressions III | [View Solution](https://github.com/itshally/HackerRank/blob/master/10%20Days%20Of%20JavaScript/Day%207/Day_7_Regular_Expressions_3_Solution.js)
