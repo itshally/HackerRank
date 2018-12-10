@@ -24,3 +24,6 @@ Day 3: Try, Catch, and Finally | [View Solution](https://github.com/itshally/Hac
 Day 4: Classes | [View Solution](https://github.com/itshally/HackerRank/blob/master/10%20Days%20Of%20JavaScript/Day%204/Day_4_Classes_Solution.js)
 Day 4: Count Objects | [View Solution](https://github.com/itshally/HackerRank/blob/master/10%20Days%20Of%20JavaScript/Day%204/Day_4_Count_Objects_Solution.js)
 Day 4: Create a Rectangle Object | [View Solution](https://github.com/itshally/HackerRank/blob/master/10%20Days%20Of%20JavaScript/Day%204/Day_4_Create_a_Rectangle_Object_Solution.js)
+Day 5: Inheritance | [View Solution](https://github.com/itshally/HackerRank/blob/master/10%20Days%20Of%20JavaScript/Day%205/Day_5_Inheritance_Solution.js)
+Day 5: Template Literals | [View Solution](https://github.com/itshally/HackerRank/blob/master/10%20Days%20Of%20JavaScript/Day%205/Day_5_Template_Literals_Solution.js)
+Day 5: Arrow Functions | [View Solution](https://github.com/itshally/HackerRank/blob/master/10%20Days%20Of%20JavaScript/Day%205/Day_5_Arrow_Functions_Solution.js)
