@@ -32,3 +32,6 @@ Day 6: JavaScript Dates | [View Solution](https://github.com/itshally/HackerRank
 Day 7: Regular Expressions I | [View Solution](https://github.com/itshally/HackerRank/blob/master/10%20Days%20Of%20JavaScript/Day%207/Day_7_Regular_Expressions_1_Solution.js)
 Day 7: Regular Expressions II | [View Solution](https://github.com/itshally/HackerRank/blob/master/10%20Days%20Of%20JavaScript/Day%207/Day_7_Regular_Expressions_2_Solution.js)
 Day 7: Regular Expressions III | [View Solution](https://github.com/itshally/HackerRank/blob/master/10%20Days%20Of%20JavaScript/Day%207/Day_7_Regular_Expressions_3_Solution.js)
+Day 8: Create a Button | [View Folder](https://github.com/itshally/HackerRank/tree/master/10%20Days%20Of%20JavaScript/Day%208/Create%20a%20Button)
+Day 8: Buttons Container | [View Folder](https://github.com/itshally/HackerRank/tree/master/10%20Days%20Of%20JavaScript/Day%208/Buttons%20Container)
+Day 9: Binary Calculator | [View Folder](https://github.com/itshally/HackerRank/tree/master/10%20Days%20Of%20JavaScript/Day%209/Binary%20Calculator)
