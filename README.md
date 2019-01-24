@@ -10,14 +10,14 @@ HackerRank is a technology hiring platform that is the standard for assessing de
 
 Challenge Name | My Solution
 --- | ---
-Day 0: Hello World! | [View Solution](https://github.com/itshally/HackerRank/blob/master/10_Days_Of_JavaScript/Day_0/Day_0_Hello_World_Solution.js)
-Day 0: Data Types | [View Solution](https://github.com/itshally/HackerRank/blob/master/10_Days_Of_JavaScript/Day_0/Day_0_Data_Types_Solution.js)
-Day 1: Arithmetic Operators | [View Solution](https://github.com/itshally/HackerRank/blob/master/10_Days_Of_JavaScript/Day_1/Day_1_Arithmetic_Operators_Solution.js)
-Day 1: Functions | [View Solution](https://github.com/itshally/HackerRank/blob/master/10_Days_Of_JavaScript/Day_1/Day_1_Functions_Solution.js)
-Day 1: Let and Const | [View Solution](https://github.com/itshally/HackerRank/blob/master/10_Days_Of_JavaScript/Day_1/Day_1_Let_and_Const_Solution.js)
-Day 2: Conditional Statements: If-Else | [View Solution](https://github.com/itshally/HackerRank/blob/master/10_Days_Of_JavaScript/Day_2/Day_2_Conditional_Statements_If_Else_Solution.js)
-Day 2: Conditional Statements: Switch | [View Solution](https://github.com/itshally/HackerRank/blob/master/10_Days_Of_JavaScript/Day_2/Day_2_Conditional_Statements_Switch_Solution.js)
-Day 2: Loops | [View Solution](https://github.com/itshally/HackerRank/blob/master/10_Days_Of_JavaScript/Day_2/Day_2_Loops_Solution.js)
+Day 0: Hello World! | [View Solution](https://github.com/itshally/HackerRank/blob/master/10%20Days%20Of%20JavaScript/Day%200/Day_0_Hello_World_Solution.js)
+Day 0: Data Types | [View Solution](https://github.com/itshally/HackerRank/blob/master/10%20Days%20Of%20JavaScript/Day%200/Day_0_Data_Types_Solution.js)
+Day 1: Arithmetic Operators | [View Solution](https://github.com/itshally/HackerRank/blob/master/10%20Days%20Of%20JavaScript/Day%201/Day_1_Arithmetic_Operators_Solution.js)
+Day 1: Functions | [View Solution](https://github.com/itshally/HackerRank/blob/master/10%20Days%20Of%20JavaScript/Day%201/Day_1_Functions_Solution.js)
+Day 1: Let and Const | [View Solution](https://github.com/itshally/HackerRank/blob/master/10%20Days%20Of%20JavaScript/Day%201/Day_1_Let_and_Const_Solution.js)
+Day 2: Conditional Statements: If-Else | [View Solution](https://github.com/itshally/HackerRank/blob/master/10%20Days%20Of%20JavaScript/Day%202/Day_2_Conditional_Statements_If_Else_Solution.js)
+Day 2: Conditional Statements: Switch | [View Solution](https://github.com/itshally/HackerRank/blob/master/10%20Days%20Of%20JavaScript/Day%202/Day_2_Conditional_Statements_Switch_Solution.js)
+Day 2: Loops | [View Solution](https://github.com/itshally/HackerRank/blob/master/10%20Days%20Of%20JavaScript/Day%202/Day_2_Loops_Solution.js)
 Day 3: Arrays | [View Solution](https://github.com/itshally/HackerRank/blob/master/10%20Days%20Of%20JavaScript/Day%203/Day_3_Arrays_Solution.js)
 Day 3: Throw | [View Solution](https://github.com/itshally/HackerRank/blob/master/10%20Days%20Of%20JavaScript/Day%203/Day_3_Throw_Solution.js)
 Day 3: Try, Catch, and Finally | [View Solution](https://github.com/itshally/HackerRank/blob/master/10%20Days%20Of%20JavaScript/Day%203/Day_3_Try_Catch_and_Finally_Solution.js)
